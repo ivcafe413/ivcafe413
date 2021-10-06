@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/VagrantTech"><img src="https://api.daily.dev/devcards/31231bee3cd04510a6f7a6af2ee5a072.png?r=dba" width="400" alt="Isaac V's Dev Card"/></a>
+<a href="https://app.daily.dev/VagrantTech"><img src="https://github.com/ivcafe413/ivcafe413/blob/master/devcard.svg" width="400" alt="Isaac V's Dev Card"/></a>
 
 Hello, I am Vagrant Technology. Professional software engineer, aspiring game dev.
 - I am experienced in HTML/CSS/JS, Python, C#, Java, and other coding languages
