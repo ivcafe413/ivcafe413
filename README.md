@@ -6,8 +6,7 @@ Hello, I am Vagrant Technology. Professional software engineer, aspiring game de
 - I have experience with SQL, MongoDB, Neo4j, Redis, and other database technologies
 - I have used Node, Angular, React, Ionic, Flask, ASP.NET, .NET Core, and various other frameworks
 - Some familiarity with machine learning frameworks such as Tensorflow and PyTorch
-
-In the world of game dev, I am currently using pygame and Tiled to develop my first RPG. It will be published on itch.io for Devtober 2021
+- I am currently teaching myself Godot by developing a MOBA-style multiplayer game
 
 <!---
 ivcafe413/ivcafe413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
